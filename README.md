@@ -1,6 +1,8 @@
 # Excel
 Data cleaning and data visualisation in EXCEL
+
 Here are the steps I followed
+
 1.Data Collection: Collected data on bike purchasers, including various demographic and socioeconomic variables such as gender, income, education, homeownership status, occupation, age, and marital status.
 
 2.Data Cleaning: In Excel, performed data cleaning, which involved removing unnecessary blanks or handling missing values to ensure the dataset is ready for analysis.
